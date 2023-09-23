@@ -20,6 +20,11 @@ In the Time Series Analysis section, I've worked with a dataset containing infor
 
 - **Stationarity Tests**: To ensure the reliability of the time series models, I've conducted statistical tests such as the Augmented Dickey-Fuller (ADF) test and Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test to check for stationarity in the data.
 
+
+![](images/gas-consumption-tuned-hwes.png)
+![](images/electricity-consumption-sarima.png)
+![](images/water-consumption-sarima.png)
+
 ## Clustering
 
 ### Dataset: Customer Segmentation
@@ -39,6 +44,9 @@ The primary objective is to identify distinct customer segments within the mall'
 #### Key Techniques
 
 - **t-SNE Dimensionality Reduction**: I've employed t-Distributed Stochastic Neighbor Embedding (t-SNE) to cast higher-dimensional customer data into lower dimensions, making it easier to visualize and analyze the relationships between customers and their spending behavior.
+
+![](images/kmeans-clustering-original-data.png)
+![](images/kmeans-clustering-pca-data.png)
 
 ## Getting Started
 
