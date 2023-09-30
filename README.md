@@ -1,6 +1,6 @@
 # Machine Learning Project: Clustering and Time Series Analysis
 
-Welcome to the GitHub repository for one of my machine learning projects, which was my submission for AI and ML module at Singapore Polytechnic, where I've explored two fascinating aspects of data analysis: **Clustering** and **Time Series Analysis**. In this project, I've leveraged advanced techniques to gain insights from data and make informed decisions. Both datasets were provided as part of the assignment and I have linked the original source for the dataset where possible.
+Welcome to the GitHub repository for one of my machine learning projects, which was one of my submission for AI and ML module at Singapore Polytechnic, where I've explored two fascinating aspects of data analysis: **Clustering** and **Time Series Analysis**. In this project, I've leveraged advanced techniques to gain insights from data and make informed decisions. Both datasets were provided as part of the assignment and I have linked the original source for the dataset where possible.
 
 ## Time Series Analysis
 
