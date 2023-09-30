@@ -1,6 +1,6 @@
 # Machine Learning Project: Clustering and Time Series Analysis
 
-Welcome to the GitHub repository for my machine learning project, where I've explored two fascinating aspects of data analysis: **Clustering** and **Time Series Analysis**. In this project, I've leveraged advanced techniques to gain insights from data and make informed decisions.
+Welcome to the GitHub repository for one of my machine learning projects, which was my submission for AI and ML module at Singapore Polytechnic, where I've explored two fascinating aspects of data analysis: **Clustering** and **Time Series Analysis**. In this project, I've leveraged advanced techniques to gain insights from data and make informed decisions. Both datasets were provided as part of the assignment and I have linked the original source for the dataset where possible.
 
 ## Time Series Analysis
 
@@ -27,7 +27,7 @@ In the Time Series Analysis section, I've worked with a dataset containing infor
 
 ## Clustering
 
-### Dataset: Customer Segmentation
+### Dataset: Customer Segmentation [From Udemy's Machine Learning A-Z course](https://github.com/SteffiPeTaffy/machineLearningAZ/blob/master/Machine%20Learning%20A-Z%20Template%20Folder/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Mall_Customers.csv)
 
 In the Clustering section, I've aimed to group mall customers based on various factors, including:
 
